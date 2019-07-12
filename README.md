@@ -32,4 +32,6 @@ Just copy 'DragMeDownView.swift' to your project & subclass your top view from i
 You can adjust some details about it in storyboard as well.
 ![](properties.png)
 
+notice1: turn show bottom line 'on' if you want thay small line in the bottom of your view.
+notice2: collapsed height is the minimum height of your view when its collapsed!
 
